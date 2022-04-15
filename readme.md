@@ -1,4 +1,5 @@
 Southern Appalachians LANDIS-II Project
+[![DOI](https://zenodo.org/badge/469808688.svg)](https://zenodo.org/badge/latestdoi/469808688)
 ================
 
 
